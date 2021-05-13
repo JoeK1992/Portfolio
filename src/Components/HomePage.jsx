@@ -2,7 +2,7 @@ import NavBar from "../Components/NavBar";
 
 function HomePage() {
   return (
-    <div className="Main-Div" style={{ paddingBottom: "2em", height: "100vh" }}>
+    <div className="Main-Div" style={{ paddingBottom: "2em" }}>
       <NavBar />
       <h1 className="Heading">Joe Kelly</h1>
       <h2
