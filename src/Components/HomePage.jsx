@@ -36,13 +36,10 @@ function HomePage() {
       <text style={{ fontSize: "1.3em" }}>
         <br />
         I am a former music student from Liverpool and recently completed the
-        Northcoders bootcamp. My interest in coding began after my masters
-        degree in audio for video games, after which I found that most jobs in
-        this field require the ability to code. I have since found that I enjoy
-        coding a great deal and would be happy in any kind of programming role.
-        I have learned a great deal before and during the Northcoders bootcamp
-        and look forward to beginning my career in this sector and continuing to
-        learn new skills.
+        Northcoders bootcamp. I have been developing my interest in coding for
+        around six months. I have learned a great deal before and during the
+        Northcoders bootcamp and look forward to beginning my career in this
+        sector and continuing to learn new skills.
         <br /> <br />
         <a
           href="https://www.linkedin.com/in/joe-kelly-ab4861138/"
