@@ -7,7 +7,7 @@ function EducationHobbies() {
       <h1 className="Heading" style={{ marginBottom: "0.5em" }}>
         About Me
       </h1>
-      <text style={{ fontSize: "1.5em" }}>
+      <text style={{ fontSize: "1.5em", marginBottom: "0px" }}>
         I attended secondary school at St Edward's college in Liverpool, before
         leaving at 16 to attend Carmel College in St Helens. I studied Music,
         Music Technology, English Literature and History there for A level. I
