@@ -4,7 +4,7 @@ import NavBar from "../Components/NavBar";
 
 function ProjectsPage() {
   return (
-    <div className="Main-Div" style={{ paddingBottom: "3em" }}>
+    <div className="Main-Div" style={{ paddingBottom: "3px", height: "100%" }}>
       <NavBar />
       <h1 className="Heading">Projects</h1>
       <h2
@@ -85,7 +85,7 @@ function ProjectsPage() {
       >
         Click me to visit the GitHub page for this project
       </a>
-      <text>
+      <text style={{ marginBottom: "0px" }}>
         <br /> <br />
         <a
           href="https://joek-nc-news.netlify.app"

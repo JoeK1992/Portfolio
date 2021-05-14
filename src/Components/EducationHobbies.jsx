@@ -2,7 +2,7 @@ import NavBar from "../Components/NavBar";
 
 function EducationHobbies() {
   return (
-    <div className="Main-Div" style={{ paddingBottom: "3em", height: "100vh" }}>
+    <div className="Main-Div" style={{ paddingBottom: "3em", height: "100%" }}>
       <NavBar />
       <h1 className="Heading" style={{ marginBottom: "0.5em" }}>
         About Me

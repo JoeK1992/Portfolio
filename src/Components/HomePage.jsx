@@ -2,7 +2,7 @@ import NavBar from "../Components/NavBar";
 
 function HomePage() {
   return (
-    <div className="Main-Div" style={{ paddingBottom: "2em", height: "100%" }}>
+    <div className="Main-Div" style={{ paddingBottom: "3em", height: "100%" }}>
       <NavBar />
       <h1 className="Heading">Joe Kelly</h1>
       <h2
@@ -33,13 +33,14 @@ function HomePage() {
         />
       </div>
 
-      <text style={{ fontSize: "1.3em" }}>
+      <text style={{ fontSize: "1.3em", marginBottom: "0px" }}>
         <br />
         I am a former music student from Liverpool and recently completed the
         Northcoders bootcamp. I have been developing my interest in coding for
         around six months. I have learned a great deal before and during the
         Northcoders bootcamp and look forward to beginning my career in this
-        sector and continuing to learn new skills.
+        sector and continuing to learn new skills. I am familiar with
+        Javascript, Express.js, PSQL, React, React Native and CSS.
         <br /> <br />
         <a
           href="https://www.linkedin.com/in/joe-kelly-ab4861138/"
