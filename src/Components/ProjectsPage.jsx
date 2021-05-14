@@ -4,7 +4,7 @@ import NavBar from "../Components/NavBar";
 
 function ProjectsPage() {
   return (
-    <div className="Main-Div" style={{ paddingBottom: "3px", height: "100%" }}>
+    <div className="Main-Div" style={{ paddingBottom: "3em", height: "100%" }}>
       <NavBar />
       <h1 className="Heading">Projects</h1>
       <h2
