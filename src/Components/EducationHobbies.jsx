@@ -17,14 +17,14 @@ function EducationHobbies() {
         <br /> <br />
         After working various part-time jobs throughout University I spent three
         years working as a steward at the Liverpool Philharmonic Hall before
-        spending a year with Slater and Gordon as a legal assistant. It was
-        during my time with Slater and Gordon that I developed my interest in
-        programming and decided that this would be a career path more suited to
-        me. I had already noticed after my time at ThinkSpace education that
-        most roles in video-game audio required the ability to code. After
-        completing the Free Code Camp tutorials I realised that coding itself
-        was of great interest to me and decided to pursue a career in
-        programming rather than audio.
+        spending a year with Slater and Gordon as a legal assistant. I gained
+        many professional skills from these posts but the work I did with
+        ThinkSpace and for student films in my spare time was much more
+        fulfilling. Programming digital audio using technology was inspiring and
+        when the opportunity to be a Northcoders student arose I jumped at it. I
+        have thoroughly enjoyed the Bootcamp right from the Free Code Camp
+        tutorials through to frontend and backend projects and look forward to
+        beginning my career in programming.
         <br /> <br />I have many hobbies and interests outside of work. I still
         play music in my spare time and occasionally perform live with bands. I
         am also keen on sport and play football and tennis. I was men's captain
