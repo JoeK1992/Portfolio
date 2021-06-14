@@ -29,7 +29,7 @@ function HomePage() {
             marginTop: "1em",
           }}
           alt=""
-          src="https://scontent.fman1-2.fna.fbcdn.net/v/t1.6435-0/c0.48.206.206a/p206x206/186052643_10218593839229321_3861258703764885055_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=da31f3&_nc_ohc=CMaJT0GjrDsAX_PvxRl&_nc_ht=scontent.fman1-2.fna&tp=27&oh=0df6d347014e5f3b5ed77956c3dee949&oe=60C17A85"
+          src="https://ibb.co/gMs7LCv"
         />
       </div>
 
