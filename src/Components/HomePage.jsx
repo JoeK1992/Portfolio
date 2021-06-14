@@ -25,7 +25,7 @@ function HomePage() {
         <img
           style={{
             height: "300px",
-            width: "300px",
+            width: "200px",
             marginTop: "1em",
           }}
           href="https://imgbb.com/"
