@@ -30,7 +30,7 @@ function HomePage() {
           }}
           href="https://imgbb.com/"
           src="https://i.ibb.co/ynLRcJh/Portfolio-photo-cropped.png"
-          alt="Portfolio-photo-cropped"
+          alt="Portfolio-cropped"
         />
       </div>
 
