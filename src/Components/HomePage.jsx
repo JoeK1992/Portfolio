@@ -41,7 +41,8 @@ function HomePage() {
         around six months. I have learned a great deal before and during the
         Northcoders bootcamp and look forward to beginning my career in this
         sector and continuing to learn new skills. I am familiar with
-        Javascript, PHP, C#, Express.js, PSQL, React, React Native and CSS.
+        Javascript, HTML, PHP, C#, Express.js, PSQL, Jest, TDD, React, React
+        Native and CSS.
         <br /> <br />
         <a
           href="https://www.linkedin.com/in/joe-kelly-ab4861138/"
