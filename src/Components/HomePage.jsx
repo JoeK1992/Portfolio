@@ -28,8 +28,9 @@ function HomePage() {
             width: "300px",
             marginTop: "1em",
           }}
-          alt=""
-          src="https://ibb.co/gMs7LCv"
+          href="https://imgbb.com/"
+          src="https://i.ibb.co/ynLRcJh/Portfolio-photo-cropped.png"
+          alt="Portfolio-photo-cropped"
         />
       </div>
 
@@ -40,7 +41,7 @@ function HomePage() {
         around six months. I have learned a great deal before and during the
         Northcoders bootcamp and look forward to beginning my career in this
         sector and continuing to learn new skills. I am familiar with
-        Javascript, Express.js, PSQL, React, React Native and CSS.
+        Javascript, PHP, C#, Express.js, PSQL, React, React Native and CSS.
         <br /> <br />
         <a
           href="https://www.linkedin.com/in/joe-kelly-ab4861138/"
